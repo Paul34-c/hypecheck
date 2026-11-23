@@ -1,0 +1,7 @@
+{
+  "name": "sneakprices-prices",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "update": "node update-prices.js" },
+  "dependencies": { "sneaks-api": "^1.2.3" }
+}
